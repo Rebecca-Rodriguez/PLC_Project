@@ -24,6 +24,8 @@ public final class Lexer {
      * whitespace where appropriate.
      */
     public List<Token> lex() {
+        System.out.println("Hello this is a test by Becca!");
+
         throw new UnsupportedOperationException(); //TODO
     }
     /**
